@@ -5,6 +5,7 @@
 OUTPUT:
 
 C:\Users\user\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\user\PycharmProjects\pythonProject\main.py 
+
 DEPOSIT of 600000 at 2025-02-12 09:25:28.627026
 WITHDRAWAL of 30000 at 2025-02-12 09:25:28.627026
 Current balance: 570000.0
